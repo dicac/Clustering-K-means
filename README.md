@@ -18,6 +18,8 @@ Se utiliza el método de la suma interna de cuadrados. Visualmente se puede infe
 ![](Plots/allindices.png)
 
 
+
+
 <p align="center">
   <img src="Plots/optimalclusterk3.png" />
 </p>
